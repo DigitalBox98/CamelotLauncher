@@ -2,7 +2,7 @@
 
 Connect to custom DAOC Freeshard with the launcher tool and Avalonia GUI.<br>
 
-![launcher-1](https://user-images.githubusercontent.com/57635141/147961932-a5c8c0ca-feb3-4367-a8f0-8c7c1b87b41a.png)
+<img width="512" alt="camelotlauncher" src="https://github.com/DigitalBox98/CamelotLauncher/assets/57635141/724ea4d0-6e99-4346-aa70-278145226029">
 
 
 # Generate solution
