@@ -2,7 +2,7 @@
 
 Connect to custom DAOC Freeshard with the launcher tool and Avalonia GUI.<br>
 
-This version required dotnet 8 runtimes
+This version requires dotnet 8 runtimes
 
 <img width="512" alt="camelotlauncher" src="https://github.com/DigitalBox98/CamelotLauncher/assets/57635141/724ea4d0-6e99-4346-aa70-278145226029">
 
